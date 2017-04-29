@@ -3,12 +3,11 @@
 ---
 @charset "utf-8";
 // Import google fonts
-@import url('https://fonts.googleapis.com/css?family=Heebo:400,500,700,800,900|Yantramanav:300,400,500,700,900');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,400i,600');
 
 // Own variables
 // Text
-$base-font-family: "Yantramanav", Helvetica, Arial, sans-serif;
-$header-font-family: "Heebo";
+$base-font-family: "Raleway", sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
